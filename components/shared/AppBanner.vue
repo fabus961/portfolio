@@ -47,7 +47,7 @@ export default {
           uppercase
         "
         >
-          Hi, Iam Fabian Löwe
+          Hi, I am Fabian Löwe
         </h1>
         <p
           class="

@@ -1087,7 +1087,7 @@ export const state = () => ({
     },
     {
       id: uuidv4(),
-      bio: "Today I've had the chance to been in several positions and domains across the business-landscape. Vertical farming, robotics, automotive - a variety of fields has helped me to grow my knowledge further into managing teams and processes. But I've never stopped coding :)",
+      bio: "Today I've had the chance to be in several positions and domains across the business-landscape. Vertical farming, robotics, automotive - a variety of fields has helped me to grow my knowledge further into managing teams and processes. But I've never stopped coding :)",
     },
   ],
   copyrightDate: new Date().getFullYear(),
