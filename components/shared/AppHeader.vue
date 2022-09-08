@@ -123,7 +123,9 @@ export default {
               text-primary-dark
               hover:text-white
               dark:text-white
-              dark:hover:text-primary-dark"
+              dark:hover:text-primary-dark
+              w-6
+              h-6"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"
