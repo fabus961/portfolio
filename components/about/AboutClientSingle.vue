@@ -21,6 +21,8 @@ export default {
         w-64
         py-5
         px-10
+        hover:bg-gray-300
+        dark:hover:bg-gray-300
         border border-ternary-light
         dark:border-ternary-dark
         shadow-sm
