@@ -1,0 +1,28 @@
+{
+  "name": "dev-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@tailwindcss/forms": "^0.3.4",
+    "core-js": "^3.15.1",
+    "feather-icons": "^4.28.0",
+    "nuxt": "^2.15.7",
+    "nuxt-mail": "^3.0.23",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/color-mode": "^2.1.1",
+    "@nuxtjs/tailwindcss": "^4.2.0",
+    "postcss": "^8.3.5",
+    "sass": "^1.54.8",
+    "sass-loader": "10",
+    "vue-backtotop": "^1.6.1"
+  }
+}
