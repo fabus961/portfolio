@@ -1,8 +1,14 @@
 <script>
 import feather from "feather-icons";
+import GoogleMapsDisplay from "@/components/contact/GoogleMapsDisplay";
+import ContactDetails from "@/components/contact/ContactDetails";
 
 export default {
   scrollToTop: true,
+  components: {
+    GoogleMapsDisplay,
+    ContactDetails
+  },
   data: () => {
     return {
       contacts: [
@@ -43,7 +49,10 @@ export default {
     "
   >
     <!-- Contact form -->
-    <ContactForm />
+    <!-- TODO: <ContactForm />-->
+
+    <!-- Google Maps -->
+    <GoogleMapsDisplay />
 
     <!-- Contact details -->
     <ContactDetails :contacts="contacts" />
