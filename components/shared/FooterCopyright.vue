@@ -37,7 +37,7 @@ export default {
       >
       . Rigged by
       <a
-        href="/about"
+        href="https://fabianloewe.de/about"
         class="
           font-general-medium
           text-primary-dark
