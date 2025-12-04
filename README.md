@@ -8,6 +8,10 @@ A simple portfolio starter theme built with Nuxt.js and Tailwind CSS. It's the r
 
 [https://fabianloewe.de](https://fabianloewe.de)
 
+## Prerequisites
+
+- npm or yarn version 14/16
+
 ## Features
 
 - Simple and responsive design
