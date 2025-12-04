@@ -69,7 +69,8 @@ typings/
 .nuxt
 
 # Nuxt generate
-dist
+# we deploy dist, because we use it on managed hosting where we cannot build on the server
+# dist
 
 # vuepress build output
 .vuepress/dist

@@ -7,7 +7,7 @@
     "build": "nuxt build",
     "build:legacy": "NODE_OPTIONS='--openssl-legacy-provider' nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "NODE_OPTIONS='--openssl-legacy-provider' nuxt generate"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
